@@ -27,6 +27,7 @@ def login(username, password):
     username : str
     password : str
     """
+    raise NotImplemented
     _init_session()
 
     # Get the fnid, required to POST our information
