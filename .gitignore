@@ -1,0 +1,16 @@
+*.pyc
+*.pyo
+*.pyd
+*~
+.#*
+bin/
+include/
+lib/
+flycheck*
+configs/
+htmlcov/
+coverage
+.tox/
+*.egg-info/
+.coverage
+eggdrop
