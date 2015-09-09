@@ -15,7 +15,7 @@ REQUIREMENTS_PATH = os.path.abspath(
 
 setup(
     name='pyski',
-    url='http://github.com/naderm/pyski',
+    url='https://github.com/naderm/pyski',
     author='Nader Morshed',
     description='Python library interfacing with the Hubski API',
     author_email="morshed@mit.edu",
