@@ -51,6 +51,7 @@ def login(username, password):
     if r.status_code != 200 or r.url != "{}/".format(BASE_URL):
         raise Exception("Unable to log in!") # XXX: Full message?
 
+
 def list_publications():
     """
     Lists all publications on Hubski.
